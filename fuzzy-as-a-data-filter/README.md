@@ -25,8 +25,8 @@ Siga os passos abaixo para instalar e executar o projeto:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/AntonioC4r10s/corrigir-frameworks.git
-   cd corrigir-frameworks
+   git clone https://github.com/AntonioC4r10s/data-engineer.git
+   cd data-engineer/fuzzy-as-a-data-filter
    ```
 2. Instale as dependências:
     ```bash
