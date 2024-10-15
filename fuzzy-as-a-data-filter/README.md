@@ -1,4 +1,5 @@
 # Correção de Frameworks de Programação utilizando a Lógica Fuzzy
+<img src="https://tse2.mm.bing.net/th?id=OIG3.fQu5AIHsTHBrls6pFlfT&pid=ImgGn" alt="Fuzzy" width="1000" height="750">
 
 Este é um projeto fictício que corrige nomes de frameworks de programação mencionados em comentários de usuários, utilizando a biblioteca [RapidFuzz](https://pypi.org/project/RapidFuzz/) para realizar comparações aproximadas de strings.
 
