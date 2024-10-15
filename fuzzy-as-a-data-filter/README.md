@@ -1,5 +1,4 @@
 # Correção de Frameworks de Programação utilizando a Lógica Fuzzy
-
 Este é um projeto fictício que corrige nomes de frameworks de programação mencionados em comentários de usuários, utilizando a biblioteca [RapidFuzz](https://pypi.org/project/RapidFuzz/) para realizar comparações aproximadas de strings.
 
 ## Descrição

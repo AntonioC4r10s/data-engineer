@@ -1,5 +1,7 @@
 # Projetos de Estudos em Engenharia de Dados
 
+![Descrição da Imagem](https://blog.csptecnologia.com/wp-content/uploads/2021/11/Engenharia-de-Dados-Tudo-o-que-voce-precisa-saber-sobre-ela.png)
+
 Este repositório contém uma coleção de projetos desenvolvidos durante meus estudos em Engenharia de Dados. Os projetos abrangem diversas técnicas e ferramentas utilizadas na área, focando na aplicação prática dos conceitos aprendidos.
 
 ## Projetos Incluídos
