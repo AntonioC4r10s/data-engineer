@@ -47,9 +47,9 @@ data = {
         'trabalho com PyTorch e TensorFlow',
         'adoro falsk e React',
         'estou estudando o framework Expres',
-        'trabalho com FastAPI e Flask',
+        'FastAPI, Flask',
         'minha biblioteca favorita é a Scikit-Learn',
-        'uso Angular e Vue.js em projetos recentes',
+        'Angular e Vue.js em projetos recentes',
         'gosto muito de Laravel e Ruby on Rails',
         'recentemente comecei a usar o framework Spring',
         'estou explorando o que o Djanjo pode fazer',
@@ -66,15 +66,15 @@ df['frameworks_corrigidos'] = df['comentarios'].apply(corrigir_frameworks_dos_us
 print(df)
 
 # Saída
-"""                                          comentarios frameworks_corrigidos
+"""                                       comentarios frameworks_corrigidos
 0                              estou aprendendo Flask                 Flask
 1                                      React e Django         Django, React
 2                   trabalho com PyTorch e TensorFlow   PyTorch, TensorFlow
 3                                 adoro falsk e React          Flask, React
 4                  estou estudando o framework Expres               Express
-5                        trabalho com FastAPI e Flask        FastAPI, Flask
+5                                      FastAPI, Flask        FastAPI, Flask
 6          minha biblioteca favorita é a Scikit-Learn          Scikit-Learn
-7           uso Angular e Vue.js em projetos recentes   Angular, React, Vue
+7               Angular e Vue.js em projetos recentes   Angular, React, Vue
 8              gosto muito de Laravel e Ruby on Rails        Keras, Laravel
 9      recentemente comecei a usar o framework Spring        Quasar, Spring
 10         estou explorando o que o Djanjo pode fazer           Django, Vue
