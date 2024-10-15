@@ -3,7 +3,7 @@ from rapidfuzz import process, fuzz
 
 # Frameworks populares
 FRAMEWORKS_POPULARES = [
-    'Django', 'Flask', 'React', 'Angular', 'Vue', 'Spring', 'Ruby on Rails', 
+    'Django', 'Flask', 'React', 'Angular', 'Vue', 'Spring', 'Ruby', 
     'Laravel', 'TensorFlow', 'PyTorch', 'Keras', 'ASP.NET', 'Express', 
     'Svelte', 'Next.js', 'Nuxt.js', 'Ember.js', 'Bootstrap', 'jQuery', 
     'Backbone.js', 'FastAPI', 'Hug', 'Tornado', 'Bottle', 'CakePHP', 
@@ -50,7 +50,7 @@ data = {
         'FastAPI, Flask',
         'minha biblioteca favorita é a Scikit-Learn',
         'Angular e Vue.js em projetos recentes',
-        'gosto muito de Laravel e Ruby on Rails',
+        'gosto muito de Laravel e Ruby',
         'recentemente comecei a usar o framework Spring',
         'estou explorando o que o Djanjo pode fazer',
         'gosto de trabalhar com Pytorch, mas também com tensoflow',
